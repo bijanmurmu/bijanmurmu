@@ -38,6 +38,7 @@ I'm always up for learning something new or collaborating on exciting tech proje
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /></a>
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /></a>
+  <a href="https://tailwindcss.com//"><img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" /></a>
 </div>
 
 
