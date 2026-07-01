@@ -22,7 +22,7 @@
 ┌──[bijan🗲developer]─[~/projects]
 └── ls -la projects/
 
-    drwxr-xr-x  <a href="https://github.com/bijanmurmu/Onyx">Onyx</a>        P2P terminal chat &amp; file transfer [Rust/Cryptography]
+    drwxr-xr-x  <a href="https://github.com/bijanmurmu/Onyx-p2p">Onyx-p2p</a>    P2P terminal chat &amp; file transfer [Rust/Cryptography]
     drwxr-xr-x  <a href="https://github.com/bijanmurmu/Rapid-Play">RapidPlay</a>   YouTube playlist analyzer [Next.js/TypeScript]
     drwxr-xr-x  <a href="https://github.com/bijanmurmu/nulldrop">nullDrop</a>    High-fidelity subject isolation [FastAPI/React]
     drwxr-xr-x  <a href="https://github.com/bijanmurmu/mdclean">mdclean</a>     AST-powered markdown repair suite [TypeScript/Vite]
