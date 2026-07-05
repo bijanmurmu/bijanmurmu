@@ -40,13 +40,13 @@
 ┌──[bijan🗲developer]─[~/stats]
 └── ./fetch_stats.sh
 <!-- START_STATS -->
-    > Repos: ....... 30           {Contributed: 14}
+    > Repos: ....... 31           {Contributed: 16}
     > Followers: ... 12          
-    > Commits: ..... 303          (All-time)
+    > Commits: ..... 293          (All-time)
     > Issues: ...... 13           (Created)
     > PRs: ......... 21           {Merged: 12}
     > Code reviews:. 6            (Conducted)
-    > LOC: ......... (+1,636,930, -1,577,689)
+    > LOC: ......... (+1,697,063, -1,588,788)
 <!-- END_STATS -->
 ┌──[bijan🗲developer]─[~]
 └── echo $CONTACT
