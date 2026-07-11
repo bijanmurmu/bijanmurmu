@@ -6,7 +6,7 @@
        | \ | / |            ---------------------------------------------------
        o---o---o            OS:        Human (Kolkata, India Edition)
        | / | \ |            Uptime:    Up since 2004, last reboot yesterday
-       o---o---o            Role:      Full-Stack Developer &amp; Open Source Contributor [<a href="https://bijanmurmu.github.io/opensource-index/">Index</a>]
+       o---o---o            Role:      Full-Stack Developer &amp; Open Source Contributor [<a href="https://bijanmurmu.github.io/OS-index/">Index</a>]
                             IDE:       VS Code / Neovim
 
 ┌──[bijan🗲developer]─[~/stack]
