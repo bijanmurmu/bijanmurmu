@@ -30,23 +30,23 @@
 ┌──[bijan🗲developer]─[~/languages]
 └── ./fetch_langs.sh --ui minimal
 <!-- START_LANGS -->
-    > TypeScript   [   789 KB ]  59.0%
-    > Elixir       [   211 KB ]  15.8%
-    > Rust         [    80 KB ]   6.0%
-    > JavaScript   [    75 KB ]   5.6%
-    > Python       [    71 KB ]   5.3%
-    > Others       [   110 KB ]   8.3%
+    > TypeScript   [   790 KB ]  58.3%
+    > Elixir       [   211 KB ]  15.6%
+    > Rust         [    96 KB ]   7.1%
+    > JavaScript   [    77 KB ]   5.7%
+    > Python       [    71 KB ]   5.2%
+    > Others       [   110 KB ]   8.1%
 <!-- END_LANGS -->
 ┌──[bijan🗲developer]─[~/stats]
 └── ./fetch_stats.sh
 <!-- START_STATS -->
-    > Repos: ....... 26           {Contributed: 18}
+    > Repos: ....... 27           {Contributed: 18}
     > Followers: ... 12          
-    > Commits: ..... 273          (All-time)
+    > Commits: ..... 259          (All-time)
     > Issues: ...... 15           (Created)
     > PRs: ......... 21           {Merged: 12}
     > Code reviews:. 6            (Conducted)
-    > LOC: ......... (+3,383, -0)
+    > LOC: ......... (+1,668,048, -1,584,660)
 <!-- END_STATS -->
 ┌──[bijan🗲developer]─[~]
 └── echo $CONTACT
