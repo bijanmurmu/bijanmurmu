@@ -42,11 +42,11 @@
 <!-- START_STATS -->
     > Repos: ....... 28           {Contributed: 28}
     > Followers: ... 12          
-    > Commits: ..... 303          (All-time)
+    > Commits: ..... 311          (All-time)
     > Issues: ...... 15           (Created)
     > PRs: ......... 23           {Merged: 13}
     > Code reviews:. 6            (Conducted)
-    > LOC: ......... (+0, -0)
+    > LOC: ......... (+1,657,999, -1,585,972)
 <!-- END_STATS -->
 ┌──[bijan🗲developer]─[~]
 └── echo $CONTACT
