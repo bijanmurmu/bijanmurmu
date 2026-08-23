@@ -46,7 +46,7 @@
     > Issues: ...... 15           (Created)
     > PRs: ......... 23           {Merged: 13}
     > Code reviews:. 6            (Conducted)
-    > LOC: ......... (+1,657,999, -1,585,972)
+    > LOC: ......... (+0, -0)
 <!-- END_STATS -->
 ┌──[bijan🗲developer]─[~]
 └── echo $CONTACT
