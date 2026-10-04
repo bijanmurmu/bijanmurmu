@@ -40,9 +40,9 @@
 ┌──[bijan🗲developer]─[~/stats]
 └── ./fetch_stats.sh
 <!-- START_STATS -->
-    > Repos: ....... 29           {Contributed: 30}
+    > Repos: ....... 29           {Contributed: 31}
     > Followers: ... 11          
-    > Commits: ..... 325          (All-time)
+    > Commits: ..... 331          (All-time)
     > Issues: ...... 15           (Created)
     > PRs: ......... 23           {Merged: 13}
     > Code reviews:. 6            (Conducted)
