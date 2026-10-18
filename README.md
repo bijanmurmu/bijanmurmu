@@ -41,12 +41,12 @@
 └── ./fetch_stats.sh
 <!-- START_STATS -->
     > Repos: ....... 29           {Contributed: 31}
-    > Followers: ... 11          
-    > Commits: ..... 332          (All-time)
+    > Followers: ... 10          
+    > Commits: ..... 334          (All-time)
     > Issues: ...... 15           (Created)
     > PRs: ......... 23           {Merged: 13}
     > Code reviews:. 6            (Conducted)
-    > LOC: ......... (+1,678,368, -1,587,064)
+    > LOC: ......... (+3,048, -366)
 <!-- END_STATS -->
 ┌──[bijan🗲developer]─[~]
 └── echo $CONTACT
